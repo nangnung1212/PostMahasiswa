@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/PostData/app/src/main/res/layout/activity_context_menu_del.xml" value="0.25416666666666665" />
+        <entry key="..\:/PostData/app/src/main/res/layout/activity_get_data.xml" value="0.25416666666666665" />
         <entry key="..\:/PostData/app/src/main/res/layout/activity_main.xml" value="0.21041666666666667" />
         <entry key="..\:/PostData/app/src/main/res/layout/item_post.xml" value="0.15703125" />
+        <entry key="..\:/PostData/app/src/main/res/layout/list_mahasiswa.xml" value="0.253125" />
+        <entry key="..\:/PostData/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
