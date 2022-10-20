@@ -16,6 +16,9 @@
         android:theme="@style/Theme.PostData"
         tools:targetApi="31">
         <activity
+            android:name=".InsertData"
+            android:exported="false" />
+        <activity
             android:name=".ContextMenuDel"
             android:exported="false" />
         <activity

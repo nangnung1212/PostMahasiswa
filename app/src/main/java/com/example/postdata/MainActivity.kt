@@ -18,6 +18,12 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        val BtnInsert = findViewById<Button>(R.id.btn_insert)
+        BtnInsert.setOnClickListener {
+            val Intent = Intent( this,InsertData::class.java)
+            startActivity(Intent)
+        }
+
         val BtnDelete = findViewById<Button>(R.id.btn_delete)
         BtnDelete.setOnClickListener {
             val Intent = Intent( this,ContextMenuDel::class.java)
